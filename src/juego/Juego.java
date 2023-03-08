@@ -16,10 +16,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.Timer;
 
-/**
- *
- * @author oneiber
- */
+
 public class Juego {
     
     //atributos
